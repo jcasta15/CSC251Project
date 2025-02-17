@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;//for user input
 
 public class Project_jismely_castaneda
 {
